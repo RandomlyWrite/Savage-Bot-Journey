@@ -1,6 +1,6 @@
-# [Project name]
+# Fear and Loathing in Degen Vegas: A Savage Journey
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A gonzo-themed Telegram group party game bot built with Python + aiogram 3.x.
 
 ## Run & Operate
 

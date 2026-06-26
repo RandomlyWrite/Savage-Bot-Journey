@@ -1,6 +1,5 @@
 """
-All gonzo flavor text for The Savage Journey.
-Fear and Loathing in Las Vegas — the party game.
+All gonzo flavor text for Fear and Loathing in Degen Vegas: A Savage Journey.
 """
 
 import random
@@ -8,14 +7,15 @@ import random
 # ─── Bot intro ────────────────────────────────────────────────────────────────
 
 INTRO = (
-    "🦇 *THE SAVAGE JOURNEY*\n"
+    "🦇 *FEAR AND LOATHING IN DEGEN VEGAS*\n"
+    "_A Savage Journey_\n"
     "━━━━━━━━━━━━━━━━━━━━━━\n\n"
     "We were somewhere around Barstow, on the edge of the desert, when the drugs "
     "began to take hold. And suddenly there was a terrible roar all around us and "
     "the sky was full of what looked like huge bats, all swooping and screeching "
     "and diving around the car...\n\n"
-    "Welcome to _The Savage Journey_ — a group party game for those who have "
-    "committed themselves fully to the American Dream.\n\n"
+    "Welcome to _Fear and Loathing in Degen Vegas_ — a group party game for those "
+    "who have committed themselves fully to the American Dream.\n\n"
     "⚠️ *This message will self-destruct when the ether wears off.*"
 )
 
